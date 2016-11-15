@@ -1,4 +1,4 @@
-# bonnes-pratiques-scrum
+# Bonnes pratiques SCRUM
 
 Référencement des bonnes pratiques SCRUM mises en place au fil des projets.
 
